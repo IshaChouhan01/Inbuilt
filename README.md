@@ -16,12 +16,6 @@
 
 ## 🚀 Getting Started
 
-### 1. Clone the Repo
-
-```bash
-git clone https://github.com/your-username/inbuilt-health-assistant.git
-cd inbuilt-health-assistant
-```
 
 ### 2. Install Node Modules
 
@@ -102,18 +96,5 @@ inbuilt-health-assistant/
 
 ---
 
-## 🙌 Contributing
 
-Pull requests are welcome! Fork the repo, make changes on a new branch, and submit a PR with a clear description.
-
----
-
-## 📄 License
-
-MIT License © 2025 [INBUILT Team]
-
----
-
-## ✨ Author
-
-**Team INBUILT** | Made with 💖 for real well-being.
+Team INBUILT| Made with 💖 for real well-being.
